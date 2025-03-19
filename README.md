@@ -1,4 +1,7 @@
 ### study-of-basic-gates
+#  Developed by:MAHA SHREE.M 
+# RegisterNumber: 212224110035
+# Date:12.03.2025
 
 **AIM:** 
 
@@ -77,16 +80,18 @@ xnor g7(c7,a,b);
 endmodule
 Program for logic gates and verify its truth table in quartus using Verilog programming
 ```
-#  Developed by:MAHA SHREE.M 
-# RegisterNumber: 212224110035
- 
+
 **Logic symbol & Truthtable**
-![image](https://github.com/user-attachments/assets/7e14f94a-ebaa-47d5-bdbe-4540f2215d3c)
+
+
+![WhatsApp Image 2025-03-19 at 09 18 32_e67651f3](https://github.com/user-attachments/assets/9c64ff88-085a-4fa7-a784-3ad0dbe3d018)
 
 **RTL realization Output:** 
+
 ![Screenshot (166)](https://github.com/user-attachments/assets/f17deca5-53d2-43dc-b914-a65e1e346415)
 
 **RTL**
+
 ![Screenshot (167)](https://github.com/user-attachments/assets/5dfd100f-d806-4ecf-97ef-77b70c3e43af)
 
 **Result:**
